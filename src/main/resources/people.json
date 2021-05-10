@@ -1,0 +1,86 @@
+[
+  {
+    "DNI": 12345678,
+    "Nombre": "Sebastián",
+    "Apellido": "Gonzalez",
+    "Fecha Nacimiento": "25/10/1960",
+    "E-mail": "seba_gonzalez@unmail.com"
+  },
+  {
+    "DNI": 87654321,
+    "Nombre": "Leonela",
+    "Apellido": "Ferreyra",
+    "Fecha Nacimiento": "12/04/2013",
+    "E-mail": "lea_ferre_123@otromail.com"
+  },
+  {
+    "DNI": 21553224,
+    "Nombre": "Karina",
+    "Apellido": "Soluk",
+    "Fecha Nacimiento": "05/08/1976",
+    "E-mail": "kari_solu_76@gmail.com"
+  },
+  {
+    "DNI": 31501244,
+    "Nombre": "Matias",
+    "Apellido": "Nichols",
+    "Fecha Nacimiento": "27/03/2015",
+    "E-mail": "nicholma@unmail.com"
+  },
+  {
+    "DNI": 36061558,
+    "Nombre": "Alejandra",
+    "Apellido": "Román",
+    "Fecha Nacimiento": "23/11/1992",
+    "E-mail": "romanale_92@gmail.com"
+  },
+  {
+    "DNI": 40555699,
+    "Nombre": "Gabriel",
+    "Apellido": "Barrios",
+    "Fecha Nacimiento": "16/07/1998",
+    "E-mail": "gabibarrios98@otromail.com"
+  },
+  {
+    "DNI": 26554220,
+    "Nombre": "Avril",
+    "Apellido": "Lavigne",
+    "Fecha Nacimiento": "27/09/1984",
+    "E-mail": "avrillavigne@complicated.com"
+  },
+  {
+    "DNI": 25333213,
+    "Nombre": "Zlatan",
+    "Apellido": "Ibrahimovic",
+    "Fecha Nacimiento": "03/10/1981",
+    "E-mail": "imzlatan@acmilan.com"
+  },
+  {
+    "DNI": 32556572,
+    "Nombre": "James",
+    "Apellido": "Rodriguez",
+    "Fecha Nacimiento": "12/07/1991",
+    "E-mail": "james@everton.com"
+  },
+  {
+    "DNI": 19558669,
+    "Nombre": "Cristiano",
+    "Apellido": "Ronaldo",
+    "Fecha Nacimiento": "05/02/1985",
+    "E-mail": "cristiano@juventus.com"
+  },
+  {
+    "DNI": 18325642,
+    "Nombre": "Kylian ",
+    "Apellido": "Mbappé",
+    "Fecha Nacimiento": "20/12/1998",
+    "E-mail": "mbappe@PSG.com"
+  },
+  {
+    "DNI": 93224562,
+    "Nombre": "Rubén",
+    "Apellido": "Doblas",
+    "Fecha Nacimiento": "13/02/1990",
+    "E-mail": "el_rubius@youtube.com"
+  }
+]
